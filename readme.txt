@@ -1,3 +1,3 @@
-﻿Git is a version control system.
-Git is free software.
-i make a change now.
+﻿Git is a good version control system.
+Git is free software you will like it.
+I make a change now.
